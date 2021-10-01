@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-joshi20" alt="arjun-joshi20" /></a> </p>
 
-- 🔭 I’m currently working on [Hacktober-Fest Search](https://github.com/Arjun-Joshi20/Hacktoberfest-Search)
+- 🔭 I’m currently working on [4C Site](https://github.com/Arjun-Joshi20/4c-site)
 
 - 🌱 I’m currently learning **React Native and improvising and learning new stuff in Next.js. Focusing on content creation on my IG..**
 
